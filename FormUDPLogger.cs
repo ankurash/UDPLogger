@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace guiapp
 {
-    public partial class Form1 : Form
+    public partial class FormUDPLogger : Form
     {
-        public Form1()
+        public FormUDPLogger()
         {
             InitializeComponent();
             Thread UDPListenerthr = new Thread(new ThreadStart(UDPListener));
@@ -49,10 +49,16 @@ namespace guiapp
             });
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private void ButtonCheck1_Click(object sender, EventArgs e)
         {
             Console.WriteLine("btn1 press received", Environment.NewLine);
-            textBox1.Text = textBox1.Text  + "btn1 press received" + Environment.NewLine;
+            textBoxLogger.Text = textBoxLogger.Text  + "btn1 press received" + Environment.NewLine;
+        }
+
+        private void ButtonCheck2_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("btn2 press received", Environment.NewLine);
+            textBoxLogger.Text = textBoxLogger.Text + "btn2 press received" + Environment.NewLine;
         }
     }
 }
