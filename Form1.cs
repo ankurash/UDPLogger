@@ -46,7 +46,6 @@ namespace guiapp
                         //tb.Text = tb.Text + msg;      //<-this is the goal
                     }
                 }
-                
             });
         }
 
