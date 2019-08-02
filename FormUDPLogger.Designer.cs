@@ -1,4 +1,4 @@
-﻿namespace guiapp
+﻿namespace guiappUDP
 {
     partial class FormUDPLogger
     {
