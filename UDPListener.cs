@@ -39,6 +39,7 @@ namespace UDPLogger
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex);
             }
         }
 
@@ -56,6 +57,7 @@ namespace UDPLogger
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex);
             }
         }
 
@@ -67,6 +69,7 @@ namespace UDPLogger
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex);
             }
         }
 
