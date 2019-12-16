@@ -1,0 +1,9 @@
+C:\Users\Engineer\source\repos\UDPLogger\bin\Debug\UDPLogger.exe.config
+C:\Users\Engineer\source\repos\UDPLogger\bin\Debug\UDPLogger.exe
+C:\Users\Engineer\source\repos\UDPLogger\bin\Debug\UDPLogger.pdb
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.csprojAssemblyReference.cache
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.MainForm.resources
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.Properties.Resources.resources
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.csproj.GenerateResource.cache
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.exe
+C:\Users\Engineer\source\repos\UDPLogger\obj\Debug\UDPLogger.pdb
